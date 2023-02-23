@@ -1,0 +1,173 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+.header {
+  padding: 15px 0;
+}
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+.line {
+  width: 100%;
+  border: 1px solid #000000;
+}
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.header_text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  color: #828282;
+  text-decoration: none;
+}
+.header_text:hover {
+  color: #000000;
+  transition: 0, 4s;
+}
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.content {
+  padding: 20px;
+  justify-content: space-between;
+}
+.content {
+  display: flex;
+}
+.home_title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 43px;
+}
+.home_subtitle {
+  margin-top: 53px;
+  font-family: "MoMontserrat", sans-serif;
+  font-size: 21px;
+  line-height: 22px;
+  color: #070707;
+}
+.photo1 {
+  width: 100%;
+}
+.block_about {
+  margin: 200px;
+  justify-content: center;
+}
+.about_title {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+}
+.about_subtitle {
+  text-align: center;
+  font-size: 22px;
+  line-height: 22px;
+  font-weight: 300px;
+}
+.skills_subtitle {
+  margin-top: 69px;
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+  color: #070707;
+}
+.skills_content {
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+}
+.photoshop,
+.illustrator,
+.figma,
+.after {
+  width: 200px;
+  height: 250px;
+  margin-right: 90px;
+  margin-left: 60px;
+}
+.programs_subtitle {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -47px;
+  margin-top: 5px;
+}
+.programs {
+  font-size: 18px;
+  line-height: 17px;
+  text-align: center;
+  color: #828282;
+}
+.portfolio {
+  margin-top: 200px;
+}
+.portfolio_img,
+.reebok_img,
+.braun {
+  margin-left: -17px;
+  margin-top: 50px;
+  width: 100%;
+  height: 600px;
+}
+.portfolio_subtitle,
+.reebok_subtitle,
+.braun_subtitle {
+  justify-content: center;
+  font-size: 19px;
+  line-height: 22px;
+  margin: 50px 0 0 435px;
+  text-decoration-line: underline;
+  color: #070707;
+}
+.reebok_img {
+  margin-top: 80px;
+}
+.reebok_subtitle {
+  margin-top: 50px;
+}
+.braun {
+  margin-left: -26px;
+  margin-top: 80px;
+}
+.braun_subtitle {
+  margin-top: 90px;
+}
+.contacts {
+  margin-top: 230px;
+}
+.footer_content {
+  margin-top: 40px;
+}
+.button {
+  margin-top: 20px;
+  margin-left: 460px;
+  width: 300px;
+}
+.icons {
+  margin-top: 75px;
+  display: flex;
+  justify-content: center;
+}
+.linkedin,
+.inst,
+.behance,
+.drible {
+  width: 60px;
+  margin-left: 50px;
+  margin-right: 40px;
+}
+.footer_text {
+  margin-top: 60px;
+}
+.footer_subtitle {
+  font-size: 19px;
+  line-height: 17px;
+  text-align: center;
+  color: #828282;
+}
